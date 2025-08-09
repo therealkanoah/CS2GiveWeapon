@@ -1,4 +1,4 @@
-**CS2 Plugin: Give Weapons and Items Command**
+# **CS2 Plugin: Give Weapons and Items Command**
 ## Overview
 
 
