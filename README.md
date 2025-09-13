@@ -9,3 +9,4 @@ This plugin for CS2 utilizes the CounterStrikeSharp library to provide an admini
 # NOTE
 
 **Some weapon names are named differently**
+I had to delete all of the commits i made, sorry.
